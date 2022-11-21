@@ -1,25 +1,27 @@
 ﻿//программа, которая выводит третью цифру заданного числа или сообщает, что ее нет
 
 Console.Write("Введите число: ");
-int num = int.Parse(Console.ReadLine());
+int num = Convert.ToInt32(Console.ReadLine());
 
-
-int thirdOne(int a, int b)
+int ThirdDigit(int num)
 {
-int result = 0;
-    if (b < 3)
+    int result = -1;
+    if (num >= 100)
     {
-        Console.Write("Третьей цифры нет, держи: ");
-    }
-    else
-    {
-        int c = 1;
-        for (int i = b; i > 3; i--)
+        while (num > 999)
         {
-            c = c * 10;
+            num = num / 10;
         }
-
-        result = (a / c) % 10;
+        result = num % 10;
     }
-return result;
+    return result;
+}
+
+if (ThirdDigit(num) == -1)
+{
+Console.WriteLine("There is no third digit");
+}
+else
+{
+Console.WriteLine($"Third Digit: {ThirdDigit(num)}");
 }
