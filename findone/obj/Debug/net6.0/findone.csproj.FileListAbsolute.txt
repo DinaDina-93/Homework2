@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\Homework2\findone\bin\Debug\net6.0\findone.exe
+C:\Users\Asus\Desktop\Homework2\findone\bin\Debug\net6.0\findone.deps.json
+C:\Users\Asus\Desktop\Homework2\findone\bin\Debug\net6.0\findone.runtimeconfig.json
+C:\Users\Asus\Desktop\Homework2\findone\bin\Debug\net6.0\findone.dll
+C:\Users\Asus\Desktop\Homework2\findone\bin\Debug\net6.0\findone.pdb
+C:\Users\Asus\Desktop\Homework2\findone\obj\Debug\net6.0\findone.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Homework2\findone\obj\Debug\net6.0\findone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Homework2\findone\obj\Debug\net6.0\findone.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Homework2\findone\obj\Debug\net6.0\findone.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Homework2\findone\obj\Debug\net6.0\findone.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Homework2\findone\obj\Debug\net6.0\findone.dll
+C:\Users\Asus\Desktop\Homework2\findone\obj\Debug\net6.0\refint\findone.dll
+C:\Users\Asus\Desktop\Homework2\findone\obj\Debug\net6.0\findone.pdb
+C:\Users\Asus\Desktop\Homework2\findone\obj\Debug\net6.0\findone.genruntimeconfig.cache
+C:\Users\Asus\Desktop\Homework2\findone\obj\Debug\net6.0\ref\findone.dll
